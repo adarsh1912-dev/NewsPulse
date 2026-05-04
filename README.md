@@ -12,7 +12,7 @@ A production-ready, responsive news web app built with React (hooks + functional
    ```bash
    cp .env.example .env
    ```
-3. Add your GNews API key in `.env`:
+3. Add your News API key in `.env`:
    ```env
    VITE_GNEWS_API_KEY=your_real_key
    VITE_GNEWS_RATE_LIMIT_COOLDOWN_MS=60000
